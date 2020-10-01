@@ -49,3 +49,4 @@ def two_sum2(numbers, target):
             p2 = p2 - 1
         else:
             p1 = p1 + 1
+//sushant comments for hacktober fest
