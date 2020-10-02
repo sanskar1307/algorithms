@@ -12,6 +12,7 @@ int jumpSort(int a[], int n, int key) {
 		}
 	}
 	//Returning the index of the element
+	//Abhijeet's contribution for Hacktober
 	if (a[i] == key) {
 		return i;
 	}
